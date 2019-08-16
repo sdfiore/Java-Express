@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Java Express</string>
+    <string name="name_hint_edittext">Name</string>
+    <string name="toppings_textview">Toppings</string>
+    <string name="whipped_cream_checkbox">Whipped cream</string>
+    <string name="chocolate_checkbox">Chocolate</string>
+    <string name="quantity_textview">Quantity</string>
+    <string name="order_summary_textview">Order Summary</string>
+    <string name="total_textview">Total: $3</string>
+    <string name="order_button">Order</string>
+
+</resources>
